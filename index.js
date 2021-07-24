@@ -43,9 +43,9 @@ class Car {
     }
 }
 
-var car = new Car('Honda', 'Civic', 1998)
-car.honk()
-car.performMaintenance()
+// var car = new Car('Honda', 'Civic', 1998)
+// car.honk()
+// car.performMaintenance()
 
 var mySweetRide = new Car('Pontiac', 'Fiero', 1988)
 mySweetRide.honk()

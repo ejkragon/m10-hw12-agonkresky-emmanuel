@@ -1,5 +1,8 @@
 # ES6 Classes
 
+I was able to complete this assignment with only Lee's lecture notes. 
+
+
 &nbsp;
 ## Background
 
